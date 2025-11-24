@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Akanksha03-10
 - 👀 I’m interested in cloud architecture
-- 🌱 I’m currently learning AWS Cloud
 - 💞️ I’m looking to collaborate on Cloud based projects
 - 📫 How to reach me .. sakanksha648@gmail.com
 - 😄 Pronouns: Aspiring techie
